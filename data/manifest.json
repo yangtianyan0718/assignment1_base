@@ -1,0 +1,13 @@
+{
+  "file": "rte_validation_day.csv",
+  "provider": "RTE / ODR\u00c9",
+  "dataset": "eco2mix-national-cons-def",
+  "license": "Licence Ouverte 2.0",
+  "retrieved_on": "2026-11-26",
+  "source": "https://odre.opendatasoft.com/api/explore/v2.1/catalog/datasets/eco2mix-national-cons-def/exports/csv?where=date_heure+%3E%3D+date%272023-06-21%27+and+date_heure+%3C+date%272023-06-22%27&select=date_heure%2Ceolien%2Csolaire%2Cconsommation&timezone=UTC",
+  "sha256": "34759ce9066c382a02a569585df7b3ad5b5ec22fb9996a2dff36f26334d9050e",
+  "raw_rows": 96,
+  "units": "MW",
+  "split": "validation",
+  "coverage": "One national day, unscaled. Full course snapshot pending."
+}
